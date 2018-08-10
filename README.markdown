@@ -135,6 +135,7 @@ Default: vmtoolsd
 open-vm-tools is available with these operating systems:
 
 * Debian 7.x and later releases
+* Devuan 2.x
 * Recent Ubuntu releases (12.04 LTS, 13.10 and later)
 * openSUSE 11.x and later releases
 * SUSE Linux Enterprise 12 and later releases
